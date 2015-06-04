@@ -1,2 +1,2 @@
 # azemojis
-Custom Emojis made by Azendoo &lt;3
+Custom Emojis made by Azendoo :heart:
